@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...front End Development
 - 🌱 I’m currently learning ... tasks on the Odin project( microverse)
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... via email : morgannjaw1998@gmial.com
+- 📫 How to reach me ... via email : morgannjaw1998@gmail.com
 
 <!---
 Morgannjaw/Morgannjaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
